@@ -1,0 +1,30 @@
+Trabalho da Disciplina (HTML + CSS puros, NÃO pode usar frameworks, e.g., Bootstrap, Tailwind)
+
+O trabalho consiste em implementar uma loja virtual (só a aparência, a loja não vai "funcionar") utilizando as linguagens vistas na disciplina. O que será cobrado:
+
+HTML: documentos válidos e acessíveis, imagens, tabelas
+CSS: documentos válidos, layout responsivo (inclusive para mobile)
+Página inicial com menu de categorias de produtos e vitrine inicial de produtos em destaque
+Tela específica para detalhar um produto clicado (faça pelo menos 2 produtos)
+Tela do carrinho de compras (com pelo menos 2 produtos fictícios para teste), com quantidades, valores unitários e totais
+Além de ser enviado aqui, o site deve ser hospedado e o link deve ser informado via comentário no envio ou arquivo txt
+
+Itens que serão avaliados:
+
+[  ] HTML válido com imagens, listas e tabelas; mínimo de 4 páginas linkadas entre si
+[  ] Multimídia (audio e/ou video e/ou iframe do YouTube)
+[  ] Arquivo CSS externo (.css)
+[  ] Seletores avançados (descendência, adjacência), pseudo-seletores (ex.: hover) e/ou pseudo-elementos
+[  ] Background Image (pode ser gradiente) e/ou Color
+[  ] Indentação e formatação de Texto com fonte customizada
+[  ] Position (relative e/ou absolute e/ou fixed)
+[  ] Responsividade (inclusive para celular) *** item de maior peso! ***
+[  ] Flex e/ou Grid
+[  ] Máximo de 6 arquivos HTML e 3 CSS; não é permitido o uso de arquivos JS e PHP; Limite de 10MB no total.
+
+Itens de menor importância ou opcionais (mas sempre podem valer um bônus!):
+[  ] Menu CSS
+[  ] Transforms
+[  ] Transitions
+[  ] Animações
+[  ] Efeitos
